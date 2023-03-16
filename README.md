@@ -2,6 +2,7 @@
 
 - [HTML DOM Document getElementById()](index.js)
 - [array, object, changing data type](data_type.js)
+- [Object, getter, setter, method](object.js)
 - Coding assignment on **for** and **while** loops.
 
 ### [Exercise #1](exercise1.js)
